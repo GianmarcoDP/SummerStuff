@@ -9,12 +9,24 @@ font-family: 'Roboto', sans-serif;
 
 h1, h2{
 color: #f2f2f2;
+clear:left;
 }
 
 p{
 color: #f2f2f2;
 font-size: 20px;
 clear:left;
+}
+
+img{
+width:90%;
+margin:5%;
+float:left;
+}
+
+.movie{
+width:45%;
+margin:2.5%;
 }
 
 .nav {
@@ -24,8 +36,6 @@ padding: 0;
 background-color: #333333;
 float:left;
 }
-
-
 
 li, a {
 display: block;
